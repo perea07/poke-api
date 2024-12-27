@@ -68,7 +68,7 @@ export function SearchPokemon() {
     <>
       {/* Formulario de búsqueda */}
       <div className="d-flex align-items-center py-3">
-        <form className="mx-auto p-4 row g-3">
+        <form className="mx-auto p-4 row g-3" autoComplete="off">
           <div className="col-auto">
             <input
               type="text"
