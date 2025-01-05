@@ -1,4 +1,3 @@
-import { PokemonList } from './components/PokemonList.jsx'
 import { SearchPokemon } from './components/SearchPokemon.jsx'
 
 export function App() {
